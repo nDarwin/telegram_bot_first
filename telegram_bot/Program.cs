@@ -14,7 +14,7 @@ namespace telegram_bot
     class Program
     {
 
-        public static string Token = @"226605169:AAEfocyazG6jDuplogeGk3V0VtFXfzcz5jU"; //статичная строк. переменная Токен
+        public static string Token = @"токен"; //статичная строк. переменная Токен
         public static int LastUpdateID = 0; //статичная числ. переменная для того что бы бот отвечал 1 раз. offset 
 
 
